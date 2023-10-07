@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shop-Report-List/static/css/main.a09aa83f.css",
+    "main.js": "/Shop-Report-List/static/js/main.64662e13.js",
+    "index.html": "/Shop-Report-List/index.html",
+    "main.a09aa83f.css.map": "/Shop-Report-List/static/css/main.a09aa83f.css.map",
+    "main.64662e13.js.map": "/Shop-Report-List/static/js/main.64662e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a09aa83f.css",
+    "static/js/main.64662e13.js"
+  ]
+}
